@@ -1,0 +1,4 @@
+#Tue Jun 27 19:08:57 WAT 2023
+base.0=/Users/Ramseyy/Desktop/sen182-flutter/regresapp/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

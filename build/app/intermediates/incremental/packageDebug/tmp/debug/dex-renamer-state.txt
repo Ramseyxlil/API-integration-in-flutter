@@ -1,0 +1,4 @@
+#Tue Jun 27 18:54:13 WAT 2023
+base.0=/Users/Ramseyy/Desktop/sen182-flutter/regresapp/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

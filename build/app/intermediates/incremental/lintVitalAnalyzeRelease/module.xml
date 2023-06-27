@@ -1,0 +1,18 @@
+<lint-module
+    format="1"
+    dir="/Users/Ramseyy/Desktop/sen182-flutter/regresapp/android/app"
+    name=":app"
+    type="APP"
+    maven="android:app:"
+    gradle="7.3.0"
+    buildFolder="/Users/Ramseyy/Desktop/sen182-flutter/regresapp/build/app"
+    bootClassPath="/Users/Ramseyy/Library/Android/sdk/platforms/android-33/android.jar:/Users/Ramseyy/Library/Android/sdk/build-tools/30.0.3/core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-33">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>
